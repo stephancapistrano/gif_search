@@ -1,4 +1,4 @@
-# project_1_buscador_gifs
+# buscador_gifs
 
 A new Flutter project.
 
